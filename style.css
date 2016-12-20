@@ -1,0 +1,37 @@
+.container {
+	width: 1200px;
+	height: auto ; 
+	background: orange; 
+	margin-left: 75px; 
+}
+.header {
+	width: 1200px;
+	height: 50 px ; 
+	background: gray; 
+	margin-left: 75px; 
+}
+.menu-bar {
+	width: 1200px;
+	height: 70px; 
+	background:  yellow ; 
+	margin-left: 75px; 
+}
+.side-bar{
+	width: 200px;
+	height: 1000px; 
+	background-color: pink; 
+	float: left ; 
+	margin-left: 75px; 
+	margin-right: 
+}
+.main-content{
+	width: 900px; 
+	height: 1000px; 
+	background-color: red ;
+	float: right; 
+	margin-right: 155px; 
+}
+#manzara-resmi{
+	width: 250px; 
+	height: 100px; 
+}
